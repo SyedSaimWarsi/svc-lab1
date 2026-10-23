@@ -1,0 +1,2 @@
+# svc-lab1
+A software development lab project focused on implementing programming concepts, practicing coding skills, and building practical solutions through hands-on development.
